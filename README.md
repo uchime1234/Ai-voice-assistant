@@ -1,0 +1,1 @@
+so this is a ai voice assistant that does basic task such as web search, set reminders and provide weather update, mainly composed of react(typescript, css, vite) as frontends and python(flask) as backend.
